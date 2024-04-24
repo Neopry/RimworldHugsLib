@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HugsLib_settings_btn>Nastavení módu</HugsLib_settings_btn>
+  <HugsLib_settings_windowTitle>Nastavení módu</HugsLib_settings_windowTitle>
+  <HugsLib_settings_resetValue>Resetovat nastavení</HugsLib_settings_resetValue>
+  <HugsLib_settings_resetAll>Resetovat vše</HugsLib_settings_resetAll>
+  <HugsLib_settings_resetAll_prompt>Resetovat vše do původních hodnot ?</HugsLib_settings_resetAll_prompt>
+  <HugsLib_settings_noSettings>Nejsou načteny žádné mody s konfigurovatelným nastavením.</HugsLib_settings_noSettings>
+  <HugsLib_settings_resetMod>Obnovení {0} výchozího nastavení</HugsLib_settings_resetMod>
+  <HugsLib_settings_resetMod_prompt>Obnovit veškeré{0} nastavení do originálních hodnot ?</HugsLib_settings_resetMod_prompt>
+  <HugsLib_settings_resetIncludeHidden>Zahrnout skrytá nastavení ({0})</HugsLib_settings_resetIncludeHidden>
+  <HugsLib_settings_hiddenSettingsHeader>Skrytá nastavení modů:</HugsLib_settings_hiddenSettingsHeader>
+  <HugsLib_settings_resetSuccessMessage>{0} nastavení bylo resetováno.</HugsLib_settings_resetSuccessMessage>
+  <HugsLib_setting_showNews_label>Zobrazit novinky z aktualizací modů</HugsLib_setting_showNews_label>
+  <HugsLib_setting_showNews_desc>Umožňuje nově nainstalovaným modům zvýraznit jejich nové funkce ve vyskakovacím okně při spuštění hry.</HugsLib_setting_showNews_desc>
+  <HugsLib_setting_allNews_label>Všechny aktualizace modů</HugsLib_setting_allNews_label>
+  <HugsLib_setting_allNews_desc>Zobrazí všechny dostupné aktualizace modů, včetně těch, které již byly zobrazeny.</HugsLib_setting_allNews_desc>
+  <HugsLib_setting_allNews_button>Ukázat nyní</HugsLib_setting_allNews_button>
+  <HugsLib_setting_allNews_fail>Žádný z aktivních módů nemá žádné novinky k zobrazení.</HugsLib_setting_allNews_fail>
+  <HugsLib_setting_unnamed_mod>(nejmenovaný mod)</HugsLib_setting_unnamed_mod>
+  <HugsLib_setting_show_settings>Zobrazit nastavení</HugsLib_setting_show_settings>
+  <HugsLib_setting_mod_name_title>Nastavení modů pro {0}</HugsLib_setting_mod_name_title>
+  <HugsLib_setting_expand_mod>Otevřít</HugsLib_setting_expand_mod>
+  <HugsLib_setting_collapse_mod>Zavřít</HugsLib_setting_collapse_mod>
+  <HugsLib_setting_quickstartSettings_label>Rychlé spuštění konfigurace</HugsLib_setting_quickstartSettings_label>
+  <HugsLib_setting_logPublisherSettings_label>Předvolby vydavatele protokolu</HugsLib_setting_logPublisherSettings_label>
+  <HugsLib_setting_ignoredUpdateNews_label>Ignorování poskytovatelů aktualizací modů</HugsLib_setting_ignoredUpdateNews_label>
+  <HugsLib_features_title>Nové funkce modifikace</HugsLib_features_title>
+  <HugsLib_features_description>Byly nainstalovány následující aktualizace modů, které přinášejí nové funkce a vylepšení.\nTento dialog můžete vypnout v nabídce Možnosti &gt; Nastavení modů.</HugsLib_features_description>
+  <HugsLib_features_update>{0} v{1}</HugsLib_features_update>
+  <HugsLib_features_link>Odkaz</HugsLib_features_link>
+  <HugsLib_features_linkDesc>Otevře prohlížeč na stránce, kde se můžete dozvědět více o této aktualizaci.\nAdresa: {0}</HugsLib_features_linkDesc>
+  <HugsLib_features_ignoreTooltip>Upozornění na budoucí aktualizace této modifikace</HugsLib_features_ignoreTooltip>
+  <HugsLib_features_confirmIgnoreTitle>Potvrdit</HugsLib_features_confirmIgnoreTitle>
+  <HugsLib_features_confirmIgnore>Ignorovat budoucí aktualizační zprávy z {0}?\n\nMožno znovu povolit v Mod Option &gt; Všechny aktualizace modů</HugsLib_features_confirmIgnore>
+  <HugsLib_features_filterBtn>Filtrovat podle módu</HugsLib_features_filterBtn>
+  <HugsLib_features_filterStatus>Aktuální filtr: {0}</HugsLib_features_filterStatus>
+  <HugsLib_features_filterAllMods>Všechny módy</HugsLib_features_filterAllMods>
+  <HugsLib_features_filterDropdownEntry>{0} ({1} novinky{2})</HugsLib_features_filterDropdownEntry>
+  <HugsLib_features_filterIgnoredModSuffix>ignorovat</HugsLib_features_filterIgnoredModSuffix>
+  <HugsLib_copiedToClipboard>Zkopírováno do schránky.</HugsLib_copiedToClipboard>
+  <HugsLib_logs_copy>Kopírovat</HugsLib_logs_copy>
+  <HugsLib_logs_shareBtn>Sdílet záznam</HugsLib_logs_shareBtn>
+  <HugsLib_logs_shareConfirmTitle>Potvrdit</HugsLib_logs_shareConfirmTitle>
+  <HugsLib_logs_shareConfirmMessage>Nahrát herní záznamy nyní?\n\nTímto způsobem odešlete své herní záznamy na veřejný server a získáte odkaz, který můžete sdílet s ostatními. To je užitečné, pokud potřebujete pomoci s odstraněním problému nebo chcete nahlásit problém autorovi módu.\n\nŽádné soukromé informace nebudou sdíleny.</HugsLib_logs_shareConfirmMessage>
+  <HugsLib_logs_publisherTitle>Vydavatel záznamů</HugsLib_logs_publisherTitle>
+  <HugsLib_logs_uploading>Nahrávání {0}</HugsLib_logs_uploading>
+  <HugsLib_logs_shortening>Získat odkaz {0}</HugsLib_logs_shortening>
+  <HugsLib_logs_uploaded>Nahrávání dokončeno!</HugsLib_logs_uploaded>
+  <HugsLib_logs_uploadError>Nahrát chybu: {0}</HugsLib_logs_uploadError>
+  <HugsLib_logs_abortBtn>Přerušit</HugsLib_logs_abortBtn>
+  <HugsLib_logs_retryBtn>Znovu</HugsLib_logs_retryBtn>
+  <HugsLib_logs_browseBtn>Otevřít v prohlížeči</HugsLib_logs_browseBtn>
+  <HugsLib_logs_useRecommendedSettings>Použít doporučené nastavení</HugsLib_logs_useRecommendedSettings>
+  <HugsLib_logs_shortUrls>Použít URL zkratku</HugsLib_logs_shortUrls>
+  <HugsLib_logs_shortUrls_tip>Při nahrávání vytvoří kratší odkaz. Nedoporučuje se ve službě Steam - krátké odkazy jsou automaticky odstraněny.</HugsLib_logs_shortUrls_tip>
+  <HugsLib_logs_platformInfo>Zahrnout informace o platformě</HugsLib_logs_platformInfo>
+  <HugsLib_logs_platformInfo_tip>Zahrnuje informace o procesoru, paměti a grafické kartě v protokolu.</HugsLib_logs_platformInfo_tip>
+  <HugsLib_logs_unlimitedLogSize>Povolit neomezenou velikost protokolu</HugsLib_logs_unlimitedLogSize>
+  <HugsLib_logs_unlimitedLogSize_tip>Pokud je vypnuta, je velikost protokolu omezena na 10 000 řádků, aby se zabránilo problémům s velmi dlouhými protokoly.</HugsLib_logs_unlimitedLogSize_tip>
+  <HugsLib_logs_github_token>Přístupový token GitHub</HugsLib_logs_github_token>
+  <HugsLib_logs_github_token_tip>Po nastavení zveřejňuje protokoly na vlastním účtu GitHub. Vložte token z GitHub &gt; Nastavení &gt; Nastavení pro vývojáře &gt; Osobní přístupové tokeny. Pokud chcete publikovat na veřejný účet HugsLib, ponechte prázdné pole.\n\nZáznamy publikované na vašem účtu mohou ostatní zobrazit pouze pomocí odkazu.</HugsLib_logs_github_token_tip>
+  <HugsLib_logs_toClipboardBtn>Do schránky</HugsLib_logs_toClipboardBtn>
+  <HugsLib_logs_uploadBtn>Nahrát</HugsLib_logs_uploadBtn>
+  <HugsLib_logs_filesBtn>Soubory</HugsLib_logs_filesBtn>
+  <HugsLib_logs_openLogFile>Otevřít soubor se záznamem</HugsLib_logs_openLogFile>
+  <HugsLib_logs_openSaveDir>Otevření složky pro ukládání</HugsLib_logs_openSaveDir>
+  <HugsLib_logs_openModsDir>Otevřít složku s módy</HugsLib_logs_openModsDir>
+  <HugsLib_restart_language_text>Jazyk hry se změnil. Hra se nyní automaticky restartuje.</HugsLib_restart_language_text>
+  <HugsLib_loadOrderWarning_title>Nesprávné pořadí načítání modů</HugsLib_loadOrderWarning_title>
+  <HugsLib_loadOrderWarning_text>&lt;b&gt;Mod HugsLib&lt;/b&gt; by měl být vždy načten až po &lt;b&gt;Core&lt;/b&gt;, aby se předešlo problémům.\nProsím, upravte pořadí modů v nabídce Mods a restartujte hru.</HugsLib_loadOrderWarning_text>
+  <HugsLib_updateRequired_title>Vyžadována aktualizace knihovny</HugsLib_updateRequired_title>
+  <HugsLib_updateRequired_text>Pro správnou funkci vyžaduje verzi knihovny&lt;b&gt;{0}&lt;/b&gt; HugsLib.\n\nChcete ji nyní aktualizovat?</HugsLib_updateRequired_text>
+  <HugsLib_updateRequired_updateBtn>Aktualizovat nyní</HugsLib_updateRequired_updateBtn>
+  <test_enumSetting_DefaultValue>Výchozí hodnota</test_enumSetting_DefaultValue>
+  <test_enumSetting_ValueOne>Hodnota jedna</test_enumSetting_ValueOne>
+  <test_enumSetting_ValueTwo>Hodnota dvě</test_enumSetting_ValueTwo>
+</LanguageData>
